@@ -1,0 +1,4 @@
+lightning_logs
+data
+*.DS_Store*
+*__pycache__*
